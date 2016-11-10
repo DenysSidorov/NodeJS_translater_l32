@@ -1,0 +1,24 @@
+{
+  "name": "NodeJS_translater_l32",
+  "version": "1.0.0",
+  "description": "Программа-переводчик использующая API Яндекса.",
+  "main": "main.js",
+  "dependencies": {
+    "request": "^2.78.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenysSidorov/NodeJS_translater_l32.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenysSidorov/NodeJS_translater_l32/issues"
+  },
+  "homepage": "https://github.com/DenysSidorov/NodeJS_translater_l32#readme"
+}
